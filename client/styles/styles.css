@@ -82,3 +82,17 @@ form input[type=text] {
 .spinner img {
     padding: 10px;
 }
+
+#friends {
+  display: inline-block;
+  border: 10px solid red;
+  position: fixed;
+}
+
+.friend {
+  color: blue;
+}
+
+#main {
+  display: inline-block;
+}
