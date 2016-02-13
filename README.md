@@ -23,7 +23,7 @@ The specrunner contain both the tests for the client
 ### Testing
 
 Tests are made with the [Mocha](https://github.com/mochajs/mocha) testing framework.
-Test are located in the ./spec directory. To run the Just open the spec runner file with chrome.
+Test are located in the ./spec directory. To run the test just open the spec runner file with chrome.
 
 ```
 SpecRunner.html
